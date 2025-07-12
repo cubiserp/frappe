@@ -10871,8 +10871,8 @@ msgstr "Frappe邮件站点"
 #. Label of a standard help item
 #. Type: Route
 #: frappe/hooks.py
-msgid "Frappe Support"
-msgstr "Frappe支持"
+msgid "Support"
+msgstr "支持"
 
 #: frappe/website/doctype/web_page/web_page.js:92
 msgid "Frappe page builder using components"
@@ -30236,8 +30236,8 @@ msgid "in minutes"
 msgstr "分钟"
 
 #: frappe/templates/signup.html:11 frappe/www/login.html:11
-msgid "jane@example.com"
-msgstr "jane@example.com"
+msgid "cubis@cubetiqs.com"
+msgstr "cubis@cubetiqs.com"
 
 #: frappe/public/js/frappe/utils/pretty_date.js:46
 msgid "just now"

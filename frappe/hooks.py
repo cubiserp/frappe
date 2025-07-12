@@ -2,16 +2,16 @@ import os
 
 from . import __version__ as app_version
 
-app_name = "frappe"
-app_title = "Framework"
-app_publisher = "Frappe Technologies"
-app_description = "Full stack web framework with Python, Javascript, MariaDB, Redis, Node"
+app_name = "system"
+app_title = "System"
+app_publisher = "CUBIS Tech"
+app_description = "System app for CUBIS ERP"
 app_license = "MIT"
 app_logo_url = "/assets/frappe/images/frappe-framework-logo.svg"
 develop_version = "15.x.x-develop"
 app_home = "/app/build"
 
-app_email = "developers@frappe.io"
+app_email = "oss@cubetiqs.com"
 
 before_install = "frappe.utils.install.before_install"
 after_install = "frappe.utils.install.after_install"
@@ -531,9 +531,9 @@ standard_help_items = [
 		"is_standard": 1,
 	},
 	{
-		"item_label": "Frappe Support",
+		"item_label": "Support",
 		"item_type": "Route",
-		"route": "https://frappe.io/support",
+		"route": "https://cubetiqs.com/cubiserp/support",
 		"is_standard": 1,
 	},
 ]

@@ -12939,7 +12939,7 @@ msgstr ""
 #. Label of a standard help item
 #. Type: Action
 #: hooks.py
-msgid "Frappe Support"
+msgid "Support"
 msgstr ""
 
 #: public/js/frappe/utils/common.js:395
@@ -36119,7 +36119,7 @@ msgid "italic"
 msgstr "斜體"
 
 #: templates/signup.html:11 www/login.html:10
-msgid "jane@example.com"
+msgid "cubis@cubetiqs.com"
 msgstr ""
 
 #: public/js/frappe/utils/pretty_date.js:46

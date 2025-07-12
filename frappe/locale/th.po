@@ -10676,7 +10676,7 @@ msgstr "ไซต์ฟรัปเป้เมล"
 #. Label of a standard help item
 #. Type: Route
 #: frappe/hooks.py
-msgid "Frappe Support"
+msgid "Support"
 msgstr "การสนับสนุนฟรัปเป้"
 
 #: frappe/website/doctype/web_page/web_page.js:92
@@ -29994,7 +29994,7 @@ msgid "in minutes"
 msgstr "ในนาที"
 
 #: frappe/templates/signup.html:11 frappe/www/login.html:11
-msgid "jane@example.com"
+msgid "cubis@cubetiqs.com"
 msgstr ""
 
 #: frappe/public/js/frappe/utils/pretty_date.js:46
