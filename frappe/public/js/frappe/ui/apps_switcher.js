@@ -70,7 +70,7 @@ frappe.ui.AppsSwitcher = class AppsSwitcher {
 			app_name: "private",
 			app_title: __("My Workspaces"),
 			app_route: "/app/private",
-			app_logo_url: "/assets/frappe/images/frappe-framework-logo.svg",
+			app_logo_url: "/assets/frappe/images/cubis_system_logo.svg",
 			workspaces: private_pages,
 		};
 

@@ -7,7 +7,7 @@ app_title = "System"
 app_publisher = "CUBIS Tech"
 app_description = "System app for CUBIS ERP"
 app_license = "MIT"
-app_logo_url = "/assets/frappe/images/frappe-framework-logo.svg"
+app_logo_url = "/assets/frappe/images/cubis_system_logo.svg"
 develop_version = "15.x.x-develop"
 app_home = "/app/build"
 

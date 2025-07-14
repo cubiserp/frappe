@@ -433,7 +433,7 @@ frappe.Application = class Application {
 		// 		[<version>, <change_log in markdown>],
 		// 	],
 		// 	"description": "ERP made simple",
-		// 	"title": "ERPNext",
+		// 	"title": "CUBIS ERP",
 		// 	"version": "12.2.0"
 		// }];
 

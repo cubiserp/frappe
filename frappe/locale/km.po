@@ -277,8 +277,8 @@ msgid ""
 "                    <code>.{fieldname}.</code> - fieldname on the document e.g.\n"
 "                    <code>branch</code>\n"
 "                </li>\n"
-"                <li><code>.FY.</code> - Fiscal Year (requires ERPNext to be installed)</li>\n"
-"                <li><code>.ABBR.</code> - Company Abbreviation (requires ERPNext to be installed)</li>\n"
+"                <li><code>.FY.</code> - Fiscal Year (requires CUBIS ERP to be installed)</li>\n"
+"                <li><code>.ABBR.</code> - Company Abbreviation (requires CUBIS ERP to be installed)</li>\n"
 "            </ul>\n"
 "        </li>\n"
 "    </ul>\n"
@@ -9004,7 +9004,7 @@ msgstr ""
 #. Description of the 'Static Parameters' (Table) field in DocType 'SMS
 #. Settings'
 #: frappe/core/doctype/sms_settings/sms_settings.json
-msgid "Enter static url parameters here (Eg. sender=ERPNext, username=ERPNext, password=1234 etc.)"
+msgid "Enter static url parameters here (Eg. sender=CUBISERP, username=CUBISERP, password=1234 etc.)"
 msgstr ""
 
 #. Description of the 'Message Parameter' (Data) field in DocType 'SMS
