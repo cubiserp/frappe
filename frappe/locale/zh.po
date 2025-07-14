@@ -62,8 +62,8 @@ msgid "${values.doctype_name} has been added to queue for optimization"
 msgstr "${values.doctype_name} 已加入优化队列"
 
 #: frappe/public/js/frappe/ui/toolbar/about.js:8
-msgid "&copy; Frappe Technologies Pvt. Ltd. and contributors"
-msgstr "&copy; Frappe科技有限公司及贡献者"
+msgid "&copy; CUBIS Tech. and contributors"
+msgstr "&copy; CUBIS 科技和贡献者"
 
 #. Label of the head_html (Code) field in DocType 'Website Settings'
 #: frappe/website/doctype/website_settings/website_settings.json
@@ -10847,12 +10847,12 @@ msgid "Frappe"
 msgstr "Frappe框架"
 
 #: frappe/public/js/frappe/ui/toolbar/about.js:4
-msgid "Frappe Framework"
+msgid "CUBIS System"
 msgstr "Frappe框架"
 
 #: frappe/public/js/frappe/ui/theme_switcher.js:59
-msgid "Frappe Light"
-msgstr "Frappe Light主题"
+msgid "Light"
+msgstr "光"
 
 #. Option for the 'Service' (Select) field in DocType 'Email Account'
 #: frappe/email/doctype/email_account/email_account.json
@@ -26411,8 +26411,8 @@ msgid "Timed Out"
 msgstr "超时"
 
 #: frappe/public/js/frappe/ui/theme_switcher.js:64
-msgid "Timeless Night"
-msgstr "永恒之夜主题"
+msgid "Dark"
+msgstr "黑暗的"
 
 #. Label of the timeline (Check) field in DocType 'User'
 #: frappe/core/doctype/user/user.json

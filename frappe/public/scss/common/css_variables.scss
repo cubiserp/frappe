@@ -1,4 +1,4 @@
-$input-height: 28px;
+$input-height: 32px; // 28
 $disabled-input-height: 22px;
 
 :root,
@@ -127,7 +127,7 @@ $disabled-input-height: 22px;
 	--code-block-text: var(--gray-400);
 
 	--primary-color: var(--azure); // --gray-900
-	--btn-height: 28px;
+	--btn-height: 32px; // 28
 
 	// input
 	--input-height: #{$input-height};

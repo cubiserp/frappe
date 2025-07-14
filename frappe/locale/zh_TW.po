@@ -12929,11 +12929,11 @@ msgid "Frappe"
 msgstr "冰咖啡"
 
 #: public/js/frappe/ui/toolbar/about.js:4
-msgid "Frappe Framework"
+msgid "CUBIS System"
 msgstr ""
 
 #: public/js/frappe/ui/theme_switcher.js:59
-msgid "Frappe Light"
+msgid "Light"
 msgstr ""
 
 #. Label of a standard help item
@@ -31322,7 +31322,7 @@ msgid "Timed Out"
 msgstr ""
 
 #: public/js/frappe/ui/theme_switcher.js:64
-msgid "Timeless Night"
+msgid "Dark"
 msgstr ""
 
 #. Label of a Check field in DocType 'Role'

@@ -55,7 +55,7 @@ from .utils.jinja import (
 )
 
 __version__ = "16.0.0-dev"
-__title__ = "Frappe Framework"
+__title__ = "CUBIS System"
 
 if TYPE_CHECKING:  # pragma: no cover
 	from logging import Logger
