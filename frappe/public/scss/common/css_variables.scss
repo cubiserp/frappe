@@ -79,7 +79,7 @@ $disabled-input-height: 22px;
 	// Layout Colors
 	--bg-color: white;
 	--fg-color: white;
-	--subtle-accent: var(--azure-5); // --gray-50
+	--subtle-accent: var(--anti-flash-white) ;// --azure-5 --gray-50
 	--subtle-fg: var(--gray-100);
 	--navbar-bg: var(--neutral);
 	--fg-hover-color: var(--gray-100);
@@ -110,7 +110,7 @@ $disabled-input-height: 22px;
 	--scrollbar-track-color: var(--gray-200);
 
 	--shadow-inset: inset 0px -1px 0px var(--gray-300);
-	--border-color: var(--gray-200);
+	--border-color: var(--anti-flash-white); // gray-200
 	--dark-border-color: var(--gray-300);
 	--table-border-color: var(--gray-200);
 	--highlight-color: var(--gray-50);

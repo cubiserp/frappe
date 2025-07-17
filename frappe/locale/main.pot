@@ -26506,7 +26506,7 @@ msgid "Timed Out"
 msgstr ""
 
 #: frappe/public/js/frappe/ui/theme_switcher.js:64
-msgid "Timeless Night"
+msgid "Dark"
 msgstr ""
 
 #. Label of the timeline (Check) field in DocType 'User'

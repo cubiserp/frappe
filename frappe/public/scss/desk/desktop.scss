@@ -92,7 +92,7 @@ body {
 	@include flex(flex, null, null, column);
 	min-height: 1px;
 	padding: 7px;
-	border-radius: var(--border-radius-lg);
+	border-radius: var(--border-radius);
 	height: 100%;
 	background-color: var(--card-bg);
 
@@ -535,13 +535,14 @@ body {
 		cursor: pointer;
 		padding: 10px;
 		border: 1px solid var(--border-color);
+		box-shadow: 0px 2px 3px -1px rgba(0,0,0,0.1), 0px 1px 0px 0px rgba(25,28,33,0.02), 0px 0px 0px 1px rgba(25,28,33,0.08);
 
 		&:hover {
-			--icon-stroke: var(--invert-neutral);
+			--icon-stroke: var(--neutral-black-2);
 			.widget-label .widget-title {
-				color: var(--invert-neutral);
+				color: var(--neutral-black-2);
 			}
-			border-color: var(--invert-neutral);
+			border-color: var(--invert-neutral-2);
 		}
 
 		.widget-label .widget-title {
