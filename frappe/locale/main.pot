@@ -10792,15 +10792,15 @@ msgstr ""
 #: frappe/integrations/doctype/social_login_key/social_login_key.json
 #: frappe/www/login.html:64 frappe/www/login.html:162 frappe/www/login.py:53
 #: frappe/www/login.py:153
-msgid "Frappe"
+msgid "System"
 msgstr ""
 
 #: frappe/public/js/frappe/ui/toolbar/about.js:4
-msgid "Frappe Framework"
+msgid "CUBIS System"
 msgstr ""
 
 #: frappe/public/js/frappe/ui/theme_switcher.js:59
-msgid "Frappe Light"
+msgid "Light"
 msgstr ""
 
 #. Option for the 'Service' (Select) field in DocType 'Email Account'
@@ -10820,7 +10820,7 @@ msgstr ""
 #. Label of a standard help item
 #. Type: Route
 #: frappe/hooks.py
-msgid "Frappe Support"
+msgid "Support"
 msgstr ""
 
 #: frappe/website/doctype/web_page/web_page.js:92
@@ -24633,7 +24633,7 @@ msgid "Started At"
 msgstr ""
 
 #: frappe/desk/page/setup_wizard/setup_wizard.js:286
-msgid "Starting Frappe ..."
+msgid "Starting system ..."
 msgstr ""
 
 #. Label of the starts_on (Datetime) field in DocType 'Event'
@@ -25189,7 +25189,7 @@ msgid "Switch To Desk"
 msgstr ""
 
 #: frappe/public/js/frappe/list/list_sidebar.js:319
-msgid "Switch to Frappe CRM for smarter sales"
+msgid "Switch to CUBIS CRM for smarter sales"
 msgstr ""
 
 #: frappe/public/js/frappe/ui/capture.js:281

@@ -10843,12 +10843,12 @@ msgstr "分数单位"
 #: frappe/integrations/doctype/social_login_key/social_login_key.json
 #: frappe/www/login.html:64 frappe/www/login.html:162 frappe/www/login.py:53
 #: frappe/www/login.py:153
-msgid "Frappe"
-msgstr "Frappe框架"
+msgid "System"
+msgstr ""
 
 #: frappe/public/js/frappe/ui/toolbar/about.js:4
 msgid "CUBIS System"
-msgstr "Frappe框架"
+msgstr ""
 
 #: frappe/public/js/frappe/ui/theme_switcher.js:59
 msgid "Light"
@@ -24548,7 +24548,7 @@ msgstr "开始于"
 
 #: frappe/desk/page/setup_wizard/setup_wizard.js:286
 msgid "Starting Frappe ..."
-msgstr "正在启动Frappe..."
+msgstr "正在启动system..."
 
 #. Label of the starts_on (Datetime) field in DocType 'Event'
 #: frappe/desk/doctype/event/event.json
@@ -25103,7 +25103,7 @@ msgid "Switch To Desk"
 msgstr "切换至工作台"
 
 #: frappe/public/js/frappe/list/list_sidebar.js:319
-msgid "Switch to Frappe CRM for smarter sales"
+msgid "Switch to CUBIS CRM for smarter sales"
 msgstr "切换至Frappe CRM以获取更智能的销售管理"
 
 #: frappe/public/js/frappe/ui/capture.js:281

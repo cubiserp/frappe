@@ -316,7 +316,7 @@ frappe.views.ListSidebar = class ListSidebar {
 		const message = "";
 		const link =
 			"https://frappe.io/crm?utm_source=crm-sidebar&utm_medium=sidebar&utm_campaign=frappe-ad";
-		const cta = __("Switch to Frappe CRM for smarter sales");
+		const cta = __("Switch to CUBIS CRM for smarter sales");
 		this.add_banner(message, link, cta);
 	}
 
