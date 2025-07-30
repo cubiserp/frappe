@@ -3588,7 +3588,7 @@ msgid "Build {0}"
 msgstr ""
 
 #: frappe/templates/includes/footer/footer_powered.html:1
-msgid "Built on {0}"
+msgid "Built by {0}"
 msgstr ""
 
 #. Label of the bulk_actions (Check) field in DocType 'User'
